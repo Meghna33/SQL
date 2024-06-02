@@ -1,4 +1,4 @@
-# SQL
+# SQL Project
 
 IPL data analysis using SQL-
 
