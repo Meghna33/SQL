@@ -1,1 +1,19 @@
-SQL second project
+project2-
+
+Project Name:
+Employee and Department Salary Management System
+
+Project Summary:
+The Employee and Department Salary Management System is a SQL-based solution designed to efficiently manage and analyze employee salary data across various departments within an organization. The project leverages SQL views and window functions to simplify complex data retrieval operations, enhance data security, and promote efficient reporting.
+
+The system includes SQL queries for identifying key salary insights such as employees with the highest salaries within each department, employees sharing the same salary, and the 3rd highest paid employee in the organization. The use of views allows for the creation of reusable, simplified virtual tables that abstract complex join operations, ensuring ease of use and data encapsulation.
+
+This solution also improves security by limiting data access to specific columns and tables via views, ensuring sensitive information like salaries can be restricted as necessary. The project emphasizes readability, maintainability, and efficiency in querying large datasets while supporting logical data independence.
+
+Key Features:
+
+Identify employees with the highest salary per department.
+Fetch employees sharing the same salary.
+Determine the 3rd highest salary in the organization.
+Simplify complex queries using views.
+Promote data security and data access control.
